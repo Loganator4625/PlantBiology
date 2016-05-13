@@ -14,3 +14,27 @@
   margin:auto;
   text-align:center
 }
+#beginButton {
+  color:#191970;
+  font-family:Arial Black;
+  font-weight:bold;
+  margin:auto;
+  height:200px;
+  width:200px;
+  border: solid #006400 2px;
+  border-radius:10px;
+  background-color:#9ACD32;
+  
+}
+#beginButton:hover {
+  color:#191970;
+  font-family:Arial Black;
+  font-weight:bold;
+  margin:auto;
+  height:200px;
+  width:200px;
+  border: solid red 2px;
+  border-radius:10px;
+  background-color:#9ACD32;
+  
+}
